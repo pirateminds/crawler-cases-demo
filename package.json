@@ -1,0 +1,45 @@
+{
+    "name": "crawler-tests",
+    "version": "1.0.0",
+    "description": "The simplies crawler demo ever",
+    "private": true,
+    "main": "src/index.js",
+    "scripts": {
+        "start": "nodemon ./server.index.js --ignore data/",
+        "test": "jest"
+    },
+    "author": "pirateminds.com",
+    "icon": "icon",
+    "license": "ISC",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.2",
+        "p-iteration": "^1.1.5",
+        "puppeteer": "^0.13.0",
+        "request-promise": "^4.2.2",
+        "sandbox": "^0.8.6",
+        "superagent": "^3.8.2",
+        "web-auto-extractor": "^1.0.17"
+    },
+    "devDependencies": {
+        "babel-cli": "^6.24.1",
+        "babel-core": "^6.26.0",
+        "babel-jest": "^21.2.0",
+        "babel-plugin-transform-async-to-generator": "^6.24.1",
+        "babel-plugin-transform-runtime": "^6.23.0",
+        "babel-preset-env": "^1.6.1",
+        "babel-preset-stage-0": "^6.24.1",
+        "babel-register": "^6.26.0",
+        "jest": "^21.2.1",
+        "jest-cli": "^21.2.1",
+        "nodemon": "^1.11.0",
+        "performance-now": "^2.1.0",
+        "regenerator-runtime": "^0.11.0"
+    },
+    "jest": {
+        "verbose": true,
+        "moduleDirectories": [
+            "node_modules",
+            "src"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Jest",
+            "type": "node",
+            "request": "launch",
+            "env": { "NODE_ENV": "test" },
+            "cwd": "${workspaceRoot}",
+            "program": "${workspaceRoot}/node_modules/jest/bin/jest.js",
+            "stopOnEntry": false,
+            "args": [
+                "--config=config/packages/jest.client.config.json"
+            ],
+            "runtimeArgs": ["--nolazy"],
+            "console": "internalConsole",
+            "sourceMaps": false,
+            "internalConsoleOptions": "openOnSessionStart"
+        }
+    ]
+}
