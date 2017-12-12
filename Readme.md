@@ -14,19 +14,19 @@ All demo are under the `./src` directory
 
 ## Demo list
 
-- [cheerio-demo](./tree/master/src/cheerio-demo) - how to use cheerio on server side
-- [puppeteer-adblock-demo](./tree/master/src/puppeteer-adblock-demo) - how to create adblock logic for puppeteer
-- [puppeteer-cheerio-demo](./tree/master/src/puppeteer-cheerio-demo) - wrap puppeteer content to cheerio
-- [puppeteer-demo](./tree/master/src/puppeteer-demo) - the minimal code needs to run puppeteer
-- [puppeteer-download-demo](./tree/master/src/puppeteer-download-demo) - how to download file using puppeteer
-- [puppeteer-linkedin-cookie-demo](./tree/master/src/puppeteer-linkedin-cookie-demo) - how to scrape site using cookie againts the login - steps.
-- [puppeteer-login-github](./tree/master/src/puppeteer-login-github) - common steps to login somewhere and receive some userfull private information.
-- [puppeteer-optimization-demo](./tree/master/src/puppeteer-optimization-demo) - experiments to optimize puppeteer load speed
-- [request-demo](./tree/master/src/request-demo) - common logic to to receive static html
-- [request-puppeteer-together-demo](./tree/master/src/request-puppeteer-together-demo) - how to switch requestjs to puppeteer runtime
-- [save-from-demo](./tree/master/src/save-from-demo) - show how to fight with ubnormal behavior sites, without puppeteer using sanbox on serverside.
-- [scheme-demo](./tree/master/src/scheme-demo) - examples to check SEO optimized sites
-- [seasonvar-demo](./tree/master/src/seasonvar-demo) - example with complex workflow to download video from common website.
+- [cheerio-demo](https://github.com/pirateminds/crawler-cases-demo/tree/master/src/cheerio-demo) - how to use cheerio on server side
+- [puppeteer-adblock-demo](https://github.com/pirateminds/crawler-cases-demo/tree/master/src/puppeteer-adblock-demo) - how to create adblock logic for puppeteer
+- [puppeteer-cheerio-demo](https://github.com/pirateminds/crawler-cases-demo/tree/master/src/puppeteer-cheerio-demo) - wrap puppeteer content to cheerio
+- [puppeteer-demo](https://github.com/pirateminds/crawler-cases-demo/tree/master/src/puppeteer-demo) - the minimal code needs to run puppeteer
+- [puppeteer-download-demo](https://github.com/pirateminds/crawler-cases-demo/tree/master/src/puppeteer-download-demo) - how to download file using puppeteer
+- [puppeteer-linkedin-cookie-demo](https://github.com/pirateminds/crawler-cases-demo/tree/master/src/puppeteer-linkedin-cookie-demo) - how to scrape site using cookie againts the login - steps.
+- [puppeteer-login-github](https://github.com/pirateminds/crawler-cases-demo/tree/master/src/puppeteer-login-github) - common steps to login somewhere and receive some userfull private information.
+- [puppeteer-optimization-demo](https://github.com/pirateminds/crawler-cases-demo/tree/master/src/puppeteer-optimization-demo) - experiments to optimize puppeteer load speed
+- [request-demo](https://github.com/pirateminds/crawler-cases-demo/tree/master/src/request-demo) - common logic to to receive static html
+- [request-puppeteer-together-demo](https://github.com/pirateminds/crawler-cases-demo/tree/master/src/request-puppeteer-together-demo) - how to switch requestjs to puppeteer runtime
+- [save-from-demo](https://github.com/pirateminds/crawler-cases-demo/tree/master/src/save-from-demo) - show how to fight with ubnormal behavior sites, without puppeteer using sanbox on serverside.
+- [scheme-demo](https://github.com/pirateminds/crawler-cases-demo/tree/master/src/scheme-demo) - examples to check SEO optimized sites
+- [seasonvar-demo](https://github.com/pirateminds/crawler-cases-demo/tree/master/src/seasonvar-demo) - example with complex workflow to download video from common website.
 
 ## So, how to install it
 
