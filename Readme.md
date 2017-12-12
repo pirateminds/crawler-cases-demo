@@ -1,6 +1,6 @@
 <h1 align="center">Crawler cases demo</h1>
 
-<p align="center">That the project written especially for <a href="https://holyjs-moscow.ru/">HollyJS 2017 in Moscow</a>. So fill free to find the speach about in the youtube.com.</p>
+<p align="center">That the project written especially for <a href="https://holyjs-moscow.ru/">HollyJS 2017 in Moscow</a>.</p>
 
 ```javascript
 npm test
