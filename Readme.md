@@ -9,7 +9,7 @@ npm test
 npm test ./src/puppeteer-adblock-demo
 ```
 
-Each demo written as separate applications. So fill free to change and mutate it. To tests your own tho.
+Each demo written as a separate application. So feel free to change and mutate it. To tests your own tho.
 All demo are under the `./src` directory
 
 ## Demo list
